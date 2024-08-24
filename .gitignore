@@ -40,9 +40,6 @@ jspm_packages/
 .DS_Store
 Thumbs.db
 
-# NPM package-lock file
-package-lock.json
-
 # Yarn lock file
 yarn.lock
 
